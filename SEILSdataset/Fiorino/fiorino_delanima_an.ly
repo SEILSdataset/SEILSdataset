@@ -959,7 +959,7 @@ AvoiceEA = \relative c{
        g2 r4 g      | % 50
 
 \cadenzaOn
-    a b c2  s4 
+    a bis c2  s4 
    \cadenzaOff
         | % 51
 
