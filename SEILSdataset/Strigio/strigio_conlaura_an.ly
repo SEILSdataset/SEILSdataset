@@ -871,7 +871,7 @@ AvoiceCA = \relative c{
   \cadenzaOff
     | % 26
  
-   s4 a b!2      | % 27
+   s4 a bis2      | % 27
  
    a gis      | % 28
  
