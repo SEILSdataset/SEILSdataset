@@ -175,7 +175,7 @@ AvoiceAA = \relative c'{
   \cadenzaOff
       | % 33
  
-   a8  b16 c d4. c8 a4      | % 34
+   a8  bis16 c d4. c8 a4      | % 34
  
    b1         | % 35
  
