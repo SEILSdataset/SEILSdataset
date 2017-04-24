@@ -1067,7 +1067,7 @@ AvoiceDA = \relative c{
  
    bes4. g8 d'2      | % 49
 
-    bis r4  b      | % 50
+    bis r4  bis      | % 50
  
    c d bes2      | % 51
  
