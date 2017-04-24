@@ -543,7 +543,7 @@ AvoiceBA = \relative c'{
       | % 49
  
 \cadenzaOn
-   s2  f  s2 
+   s2  fis!  s2 
    \cadenzaOff
     | % 50
  
@@ -563,7 +563,7 @@ AvoiceBA = \relative c'{
    | % 53
  
 \cadenzaOn
-   f4 e e1   
+   fis4 e e1   
   \cadenzaOff
     | % 54
  
@@ -939,7 +939,7 @@ AvoiceCA = \relative c'{
 
     c b8 a gis4 a      | % 81
   
-  gis a2 \once \set suggestAccidentals = ##t gis!4      | % 82
+  gis a2 gis4      | % 82
  
    a1      | % 83
  
