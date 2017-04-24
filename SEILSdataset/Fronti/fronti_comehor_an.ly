@@ -197,7 +197,7 @@ AvoiceAA = \relative c'{
  
    a f bes2      | % 34
  
-   a4 c2 b4      | % 35
+   a4 c2 bis4      | % 35
  
    c2 g          | % 36
  
