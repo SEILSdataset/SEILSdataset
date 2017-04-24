@@ -225,7 +225,7 @@ AvoiceAA = \relative c'{
 \cadenzaOn
   r1 s4 
    \cadenzaOff
-\bar "|"| % 
+| % 
 
 \cadenzaOn
     a2 b  s4 
