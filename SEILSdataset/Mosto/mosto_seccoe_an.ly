@@ -1110,7 +1110,7 @@ AvoiceDA = \relative c{
      \cadenzaOff
     | % 11
  
-  s4 b c2      | % 12
+  s4 bis c2      | % 12
  
  \cadenzaOn
   r a    s2 
