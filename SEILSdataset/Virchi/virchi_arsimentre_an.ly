@@ -553,7 +553,7 @@ AvoiceBA = \relative c'{
    \cadenzaOff
     | % 44
  
-   f8 g a b c4. b16 a      | % 45
+   f8 g a bis c4. bis16 a      | % 45
  
    gis4 a2 gis!4      | % 46
  
