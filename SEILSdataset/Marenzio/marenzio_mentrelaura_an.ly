@@ -342,11 +342,11 @@ AvoiceAA = \relative c'{
       | % 79
   
 \cadenzaOn
-  bes c2.  
+  bis c2.  
      \cadenzaOff
      | % 80
  
-   s4 b8 a b2      | % 81
+   s4 bis8 a bis2      | % 81
 
 \cadenzaOn
     c\breve. 
