@@ -486,7 +486,7 @@ AvoiceBA = \relative c{
  
    a2 a      | % 54
  
-   b r4 d,      | % 55
+   bis r4 d,      | % 55
  
    e fis g g8 d      | % 56
  
