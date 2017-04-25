@@ -690,7 +690,7 @@ AvoiceDA = \relative c{
 
     r2 d,      | % 18
 
-    d4 d bes  ees       | % 19
+    d4 d bes  e       | % 19
 
     d2 c      | % 20
 
@@ -707,7 +707,7 @@ AvoiceDA = \relative c{
     a r4 d      | % 26
 
  \cadenzaOn
-    bes d  ees2  s4 
+    bes d  ec2  s4 
    \cadenzaOff
          | % 27
 
@@ -963,7 +963,7 @@ AvoiceEA = \relative c{
    \cadenzaOff
         | % 51
 
-    r4 bes a2      | % 52
+    r4 bis a2      | % 52
 
     g r      | % 53
 
