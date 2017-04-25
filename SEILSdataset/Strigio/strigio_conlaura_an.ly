@@ -1090,7 +1090,7 @@ AvoiceCA = \relative c{
    s2 gis4 fis s1 s1 s1  
  \cadenzaOff   | % 95
  
-   gis\longa   \bar "|." 
+   gis!\longa   \bar "|." 
 \override Staff.BarLine #'transparent = ##f
 }% end of last bar in partorvoice
 
