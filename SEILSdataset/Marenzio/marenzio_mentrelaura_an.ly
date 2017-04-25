@@ -1193,17 +1193,17 @@ AvoiceDA = \relative c{
   \cadenzaOff
      | % 23
  
-   s2 cis      | % 24
+   s2 cis!      | % 24
  
 \cadenzaOn
    d1  s2 
     \cadenzaOff
      | % 25
  
-   d2 bis      | % 26
+   d2 b      | % 26
  
 \cadenzaOn
- bis1   s2 
+ bes1   s2 
   \cadenzaOff
       | % 27
   
