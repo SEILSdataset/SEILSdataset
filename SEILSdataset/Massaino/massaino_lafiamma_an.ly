@@ -100,12 +100,12 @@ AvoiceAA = \relative c'{
     e2 cis      | % 10
  
 \cadenzaOn
-    cis  cis4  cis2  
+    c  c4  c2  
   \cadenzaOff
    | % 11
  
 \cadenzaOn
-   s4  cis d1  
+   s4  c d1  
   \cadenzaOff
        | % 12
  
@@ -500,7 +500,7 @@ AvoiceBA = \relative c'{
   e4 e2 fis4      | % 32
  
 \cadenzaOn
-    fis1  s2  
+    f1  s2  
    \cadenzaOff
     | % 33
  
@@ -560,9 +560,9 @@ AvoiceBA = \relative c'{
  
    d2 r4 fis      | % 52
  
-   g2.  fis4      | % 53
+   g2.  f4      | % 53
  
-   e  fis e2      | % 54
+   e  f e2      | % 54
   
   d r4 b      | % 55
  
@@ -1124,7 +1124,7 @@ AvoiceDA = \relative c{
   
   r4 cis  cis2      | % 31
  
-    cis4  cis2 d4      | % 32
+    c4  c2 d4      | % 32
  
 \cadenzaOn
    dis1  s2 
