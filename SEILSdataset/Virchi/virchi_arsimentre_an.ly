@@ -362,7 +362,7 @@ AvoiceAA = \relative c'{
    e2 d2.  
    \cadenzaOff  | % 77
  
-   s4 cis8 b cis2     | % 78
+   s4 cis8 b cis!2     | % 78
  
    d\longa \bar "|." 
 \override Staff.BarLine #'transparent = ##f
