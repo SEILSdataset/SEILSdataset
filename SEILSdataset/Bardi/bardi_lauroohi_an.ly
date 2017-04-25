@@ -796,7 +796,7 @@ AvoiceDA = \relative c{
  
    g2 d'4 d,      | % 34
  
-   e d g f      | % 35
+   ees d g f      | % 35
  
    g2. a4      | % 36
 
