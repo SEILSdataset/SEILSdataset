@@ -551,7 +551,7 @@ AvoiceBA = \relative c'{
    \cadenzaOff
        | % 73
   
-  a4 g fis2    | % 74
+  a4 g fis!2    | % 74
  
    g\longa  \bar "|." 
 \override Staff.BarLine #'transparent = ##f
