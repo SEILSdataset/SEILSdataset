@@ -789,7 +789,7 @@ AvoiceDA = \relative c{
    g2 a      | % 39
  
  \cadenzaOn
-   c bis4  bis! s1   
+   c bis4  bis s1   
  \cadenzaOff
       | % 40
  
