@@ -94,7 +94,7 @@ AvoiceAA = \relative c'{
             | % 6
   
 \set Score.currentBarNumber = #7
-  a4 bes c bes8 a      | % 7
+  a4 b c b8 a      | % 7
 
     b4 c b2      | % 8
  
@@ -457,7 +457,7 @@ AvoiceBA = \relative c{
   \cadenzaOff
      | % 65
  
-   gis4 a2 gis!4      | % 66
+   gis!4 a2 gis!4      | % 66
  
  \cadenzaOn
    a f e d  s1 s\breve
@@ -515,7 +515,7 @@ AvoiceCA = \relative c{
  a2 g4 a      | % 5
  
  \cadenzaOn
-  bes a8 g a1 
+  bis a8 g a1 
    \cadenzaOff
        | % 6
   
@@ -607,11 +607,11 @@ AvoiceCA = \relative c{
      | % 39
  
  \cadenzaOn
-   gis2 a1  s2 
+   gis!2 a1  s2 
   \cadenzaOff
       | % 40
  
-   s2 gis      | % 41
+   s2 gis!      | % 41
 
     a r4 c      | % 42
   
