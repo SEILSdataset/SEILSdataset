@@ -305,7 +305,7 @@ AvoiceAA = \relative c'{
     | % 71
  
 \cadenzaOn
-   bis4 c2  bis!4  s4 
+   bis4 c2  bis4  s4 
    \cadenzaOff
       | % 72
  
@@ -897,11 +897,11 @@ AvoiceCA = \relative c{
      | % 49
  
 \cadenzaOn
-   s2 b1   
+   s2 bis1   
     \cadenzaOff
    | % 50
   
-  s2 b!      | % 51
+  s2 bis!      | % 51
  
 \cadenzaOn
    c c4 c4. 
