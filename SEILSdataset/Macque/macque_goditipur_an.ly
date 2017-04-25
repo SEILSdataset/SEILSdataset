@@ -644,7 +644,7 @@ AvoiceCA = \relative c{
    \cadenzaOff
       | % 51
 
-    bis2 c      | % 52
+    bis!2 c      | % 52
 
 \cadenzaOn
     r c1  
@@ -653,7 +653,7 @@ AvoiceCA = \relative c{
  
    s2 f,      | % 54
  
-   a bis8 c d bis      | % 55
+   a bis8 c d bis!      | % 55
  
    cis4 d cis!2      | % 56
  
@@ -965,7 +965,7 @@ AvoiceEA = \relative c{
    \cadenzaOff
        | % 10
  
-   e4. e8 d2      | % 11
+   ees4. ees8 d2      | % 11
  
    c r      | % 12
  
