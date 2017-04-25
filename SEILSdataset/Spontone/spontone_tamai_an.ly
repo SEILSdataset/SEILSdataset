@@ -759,7 +759,7 @@ AvoiceCA = \relative c{
   \cadenzaOff
      | % 49
   
-  c2. bes4      | % 50
+  c2. bis4      | % 50
  
 \cadenzaOn
    a2 c1  
