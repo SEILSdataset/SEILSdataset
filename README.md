@@ -8,6 +8,7 @@ The SEILS dataset encompasses 330 files: 150 are symbolic files digitally encode
 
 
 **FILE NAMING CONVENTION AND ORGANISATION** 
+
 The 330 files are stored in folders according to the composers family name. Within each folder there are 11 files. From these 11 files, 6 are pdf: 5 are scanned copies of the original paper’s sheet in ancient notation for each voice (canto, alto, quinto, tenor and basso); and 1 is the printable version of the transcription encoded in Finale. The remaining 5 are symbolically encoded files in different formats: 2 are encoded in lilypond (one in ancient white mensural notation, and the other in modern notation); the other 3 are encoded in MIDI, MusicXML, and Finale.
 
 The name of each individual file begins with the family name of the composer, followed by the first two or three words of the madrigal title, as well as by the type of notation (an – ancient notation, and mn – modern notation). 
