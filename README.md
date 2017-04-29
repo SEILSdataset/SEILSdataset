@@ -22,5 +22,6 @@ e.g.: giovannelli_nelfoco_canto_an.pdf
 
 e.g.: giovannelli_nelfoco_finale_mn.pdf
 
+
 <br><br>
 <sup>1</sup>*Innocentio Alberti, Giovanni Bardi, Girolamo Belli, Lelio Bertani, Claudio  da Correggio, Alberto da l’Occa, Giulio Eremita, Hippolito Fiorino, Vincenzo Fronti, Andrea Gabrielli, Ruggiero Giovannelli, Marc’Antonio Ingegneri, Paulo Isnardi, Luzzasco Luzzaschi, Jean de Macque, Francesco Manara, Luca Marenzio, Tiburrio Massino, Alessandro Mileville, Giovanni Battista Mosto, Nicolo’ Perue’, Francesco Pigna, Costanzo Porta, Bartolomeo Spontone, Annibale Stabile, Alessandro Strigio, Horatio Vecchi, Paolo Virchi, Giaches de Wert, Annibale Zoilo.*
