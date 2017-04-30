@@ -34,12 +34,52 @@ Additionally for the pdf files, between title and type of notation, further info
 <table style="width:100%">
   <tr>
     <td>Innocentio Alberti</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td>Ruggiero Giovannelli</td> 
+    <td>Nicolò Perué</td>
   </tr>
   <tr>
     <td>Giovanni Bardi</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Marc’Antonio Ingegneri</td> 
+    <td>Francesco Pigna</td>
+  </tr>
+   <tr>
+    <td>Girolamo Belli</td>
+    <td>Paulo Isnardi</td> 
+    <td>Costanzo Porta</td>
+  </tr>
+   <tr>
+    <td>Lelio Bertani</td>
+    <td>Luzzasco Luzzaschi</td> 
+    <td>Bartolomeo Spontone</td>
+  </tr>
+   <tr>
+    <td>Claudio  da Correggio</td>
+    <td>Jean de Macque</td> 
+    <td>Annibale Stabile</td>
+  </tr>
+   <tr>
+    <td>Alberto da l’Occa</td>
+    <td>Francesco Manara</td> 
+    <td>Alessandro Strigio</td>
+  </tr>
+   <tr>
+    <td>Giulio Eremita</td>
+    <td>Luca Marenzio</td> 
+    <td>Horatio Vecchi</td>
+  </tr>
+   <tr>
+    <td>Hippolito Fiorino</td>
+    <td>Tiburrio Massino</td> 
+    <td>Paolo Virchi</td>
+  </tr>
+   <tr>
+    <td>Vincenzo Fronti</td>
+    <td>Alessandro Mileville</td> 
+    <td>Giaches de Wert</td>
+  </tr>
+   <tr>
+    <td>Andrea Gabrielli</td>
+    <td>Giovanni Battista Mosto</td> 
+    <td>Annibale Zoilo</td>
   </tr>
 </table>
