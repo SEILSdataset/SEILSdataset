@@ -28,7 +28,6 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <br><br>
 **COMPOSERS LIST**
-
 <table>
   <tr>
     <td>Innocentio Alberti</td>
@@ -81,25 +80,4 @@ Additionally for the pdf files, between title and type of notation, further info
     <td>Annibale Zoilo</td>
   </tr>
 </table>
-
-
-FORMAT: 1A
-HOST: http://www.google.com
-
-# Tables
-Notes API is a *short texts saving* service similar to its physical paper presence on your table.
-
-<center>
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-</center>
-
-# Group Notes
-
-(...)
 
