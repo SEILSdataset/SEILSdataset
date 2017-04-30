@@ -28,7 +28,7 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <br><br>
 **COMPOSERS LIST**
-<table border="1">
+<table border="0">
   <tr>
     <td>Innocentio Alberti</td>
     <td>Ruggiero Giovannelli</td> 
