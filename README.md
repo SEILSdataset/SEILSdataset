@@ -28,8 +28,26 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <br><br>
 **COMPOSERS LIST**
-<div align="center" style="vertical-align:bottom">
-<div align="center" style="vertical-align:bottom">
+<style>
+  html, body {
+    height: 100%;
+  }
+  #tableContainer-1 {
+    height: 100%;
+    width: 100%;
+    display: table;
+  }
+  #tableContainer-2 {
+    vertical-align: middle;
+    display: table-cell;
+    height: 100%;
+  }
+  #myTable {
+    margin: 0 auto;
+  }
+</style>
+<div id="tableContainer-1">
+  <div id="tableContainer-2">
 <table>
   <tr>
     <td>Innocentio Alberti</td>
