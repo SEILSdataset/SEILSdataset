@@ -17,7 +17,7 @@ The 330 files are stored in folders according to the composers family name. With
 <ul>1 Final Project (musx)<br></ul>
 <br>
 The name of each individual file begins with the family name of the composer, followed by the first two or three words of the madrigal title, as well as by the type of notation (an – ancient notation, and mn – modern notation).
-
+<br>
 <ul> e.g. composer_first3words_notationtype.format<br></ul>
 <ul> e.g. giovannelli_nelfoco_an.ly<br></ul>
 
