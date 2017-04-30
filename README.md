@@ -33,8 +33,8 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <table> 
 <col width="130">
-  <col width="80">
-  <col width="80">
+  <col width="130">
+  <col width="130">
   <tr>
     <td>Innocentio Alberti</td>
     <td>Ruggiero Giovannelli</td> 
