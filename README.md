@@ -1,5 +1,5 @@
-# SEILS dataset
-*Symboliacally Encoded Il Lauro Secco dataset*
+c# SEILS dataset
+*Symbolically Encoded Il Lauro Secco dataset*
 
 The SEILS dataset is a corpus of scores in lilypond, music XML, MIDI, Finale, and pdf formats, in white mensural and modern notation. The transcribed scores have been taken from the 16th century anthology of Italian madrigals *Il Lauro Secco*, published for the first time in 1582 by Vittorio Baldini in Ferrara (Italy). The presented corpus contains scores of 30 different madrigals for five unaccompanied voices composed by a variety of composers.
 
