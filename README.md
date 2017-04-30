@@ -5,7 +5,7 @@ The SEILS dataset is a corpus of scores in lilypond, music XML, MIDI, Finale, an
 
 The SEILS dataset encompasses 330 files: 150 are symbolic files digitally encoded in different formats; whereas the remaining 180 are in pdf. From the 150 symbolic files: 60 are encoded in Lilypond (.ly), 30 for each considered notation (modern and ancient); 30 are encoded in Music XML (.xml); 30 in MIDI (.mid); and 30 in Finale (.musx). From the 180 pdf files: 30 are the modern notated transcriptions of the Finale encoded madrigals; and the other 150 are scanned copies of the original source, published in 1582 (5 pdf’s for each madrigal, one for each voice).  
 <br><br>
-**FILE NAMING CONVENTION AND ORGANISATION** 
+**DATA STRUCTURE AND NAMING CONVENTION** 
 
 The 330 files are stored in folders according to the composers family name. Within each folder there are 11 files: <br>
 <ul> 5 scans of the original paper ancient notation, for each voice; canto, alto, quinto, tenor and basso (pdf) <br></ul>
@@ -27,7 +27,7 @@ Additionally for the pdf files, between title and type of notation, further info
 
 
 <br><br>
-**COMPOSERS LIST**
+**COMPOSERS**
 <table>
   <tr>
     <td>Innocentio Alberti</td>
