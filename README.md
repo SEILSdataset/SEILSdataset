@@ -33,11 +33,6 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <table style="width:100%">
   <tr>
-    <th></th>
-    <th></th> 
-    <th></th>
-  </tr>
-  <tr>
     <td>Innocentio Alberti</td>
     <td>Smith</td> 
     <td>50</td>
