@@ -28,26 +28,7 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <br><br>
 **COMPOSERS LIST**
-<style>
-  html, body {
-    height: 100%;
-  }
-  #tableContainer-1 {
-    height: 100%;
-    width: 100%;
-    display: table;
-  }
-  #tableContainer-2 {
-    vertical-align: middle;
-    display: table-cell;
-    height: 100%;
-  }
-  #myTable {
-    margin: 0 auto;
-  }
-</style>
-<div id="tableContainer-1">
-  <div id="tableContainer-2">
+
 <table>
   <tr>
     <td>Innocentio Alberti</td>
@@ -100,5 +81,20 @@ Additionally for the pdf files, between title and type of notation, further info
     <td>Annibale Zoilo</td>
   </tr>
 </table>
-</div>
-</div>
+
+
+# Tables
+Notes API is a *short texts saving* service similar to its physical paper presence on your table.
+
+<center>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center>
+
+# Group Notes
+
