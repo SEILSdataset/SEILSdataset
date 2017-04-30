@@ -26,6 +26,34 @@ e.g.: giovannelli_nelfoco_finale_mn.pdf
 
 e.g. composer_first3words_finale_notationtype.format
 
+
+<b>FILE NAMING CONVENTION AND ORGANISATION</b>
+
+Data is organinsed into folders according to composers family name. 
+
+5 scans of the original paper ancient notation, for each voice; canto, alto, quinto, tenor and basso (.pdf)
+
+1 printable version of the Finale transciption (.pdf)
+
+2 symbolically encoded; ancient white mensural and modern notation (.ly)
+
+1 MIDI (.mid)
+
+1 MusicXML (.xml)
+
+1 Final Project (musx)
+
+
+<b>FILE NAMING CONVENTION AND ORGANISATION</b>
+
+Data is organinsed into folders according to composers family name. Within each folder: <br>
+<ul> 5 scans of the original paper ancient notation, for each voice; canto, alto, quinto, tenor and basso (pdf) <br></ul>
+<ul> 1 printable version of the Finale transciption (pdf) <br></ul>
+<ul>2 symbolically encoded; ancient white mensural and modern notation (.ly)<br></ul>
+<ul>1 MIDI transcription (.mid)<br></ul>
+<ul>1 MusicXML (.xml)<br></ul>
+<ul>1 Final Project (musx)<br></ul>
+
 <br><br>
 
 <sup>1</sup>*Innocentio Alberti, Giovanni Bardi, Girolamo Belli, Lelio Bertani, Claudio  da Correggio, Alberto da l’Occa, Giulio Eremita, Hippolito Fiorino, Vincenzo Fronti, Andrea Gabrielli, Ruggiero Giovannelli, Marc’Antonio Ingegneri, Paulo Isnardi, Luzzasco Luzzaschi, Jean de Macque, Francesco Manara, Luca Marenzio, Tiburrio Massino, Alessandro Mileville, Giovanni Battista Mosto, Nicolo’ Perue’, Francesco Pigna, Costanzo Porta, Bartolomeo Spontone, Annibale Stabile, Alessandro Strigio, Horatio Vecchi, Paolo Virchi, Giaches de Wert, Annibale Zoilo.*
