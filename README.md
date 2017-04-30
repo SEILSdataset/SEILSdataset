@@ -31,3 +31,20 @@ Additionally for the pdf files, between title and type of notation, further info
 <sup>1</sup>*Innocentio Alberti, Giovanni Bardi, Girolamo Belli, Lelio Bertani, Claudio  da Correggio, Alberto da l’Occa, Giulio Eremita, Hippolito Fiorino, Vincenzo Fronti, Andrea Gabrielli, Ruggiero Giovannelli, Marc’Antonio Ingegneri, Paulo Isnardi, Luzzasco Luzzaschi, Jean de Macque, Francesco Manara, Luca Marenzio, Tiburrio Massino, Alessandro Mileville, Giovanni Battista Mosto, Nicolo’ Perue’, Francesco Pigna, Costanzo Porta, Bartolomeo Spontone, Annibale Stabile, Alessandro Strigio, Horatio Vecchi, Paolo Virchi, Giaches de Wert, Annibale Zoilo.*
 
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
