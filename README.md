@@ -23,7 +23,7 @@ The name of each individual file begins with the family name of the composer, fo
 
 Additionally for the pdf files, between title and type of notation, further information is given. For the scanned copies in ancient notation the voice is also given (canto, alto, quinto, tenore, and basso); whereas for the printable version of the files encoded in Finale, the word ‘finale’ has been appended. 
 
-<ul> e.g.: giovannelli_nelfoco_canto_an.pdf0<br></ul>
+<ul> e.g.: giovannelli_nelfoco_canto_an.pdf<br></ul>
 <ul> e.g. composer_first3words_voice_notationtype.format<br></ul>
 <ul> e.g.: giovannelli_nelfoco_finale_mn.pdf<br></ul>
 <ul> e.g. composer_first3words_finale_notationtype.format<br></ul>
