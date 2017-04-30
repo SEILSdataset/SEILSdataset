@@ -28,7 +28,9 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <br><br>
 **COMPOSERS LIST**
-<table class="centerTable">
+<div align="center" style="vertical-align:bottom">
+<div align="center" style="vertical-align:bottom">
+<table>
   <tr>
     <td>Innocentio Alberti</td>
     <td>Ruggiero Giovannelli</td> 
@@ -80,3 +82,5 @@ Additionally for the pdf files, between title and type of notation, further info
     <td>Annibale Zoilo</td>
   </tr>
 </table>
+</div>
+</div>
