@@ -1,4 +1,4 @@
-# SEILSdataset
+# SEILS dataset
 *Symboliacally Encoded Il Lauro Secco dataset*
 
 The SEILS dataset is a corpus of scores in lilypond, music XML, MIDI, Finale, and pdf formats, in white mensural and modern notation. The transcribed scores have been taken from the 16th century anthology of Italian madrigals *Il Lauro Secco*, published for the first time in 1582 by Vittorio Baldini in Ferrara (Italy). The presented corpus contains scores of 30 different madrigals for five unaccompanied voices composed by a variety of composers.
@@ -83,18 +83,18 @@ Additionally for the pdf files, between title and type of notation, further info
 </table>
 
 
-# Tables
-Notes API is a *short texts saving* service similar to its physical paper presence on your table.
+%# Tables
+%Notes API is a *short texts saving* service similar to its physical paper presence on your table.
 
-<center>
+%<center>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+%| Tables   |      Are      |  Cool |
+%|----------|:-------------:|------:|
+%| col 1 is |  left-aligned | $1600 |
+%| col 2 is |    centered   |   $12 |
+%| col 3 is | right-aligned |    $1 |
 
-</center>
+%</center>
 
-# Group Notes
+%# Group Notes
 
