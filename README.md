@@ -83,18 +83,23 @@ Additionally for the pdf files, between title and type of notation, further info
 </table>
 
 
-%# Tables
-%Notes API is a *short texts saving* service similar to its physical paper presence on your table.
+FORMAT: 1A
+HOST: http://www.google.com
 
-%<center>
+# Tables
+Notes API is a *short texts saving* service similar to its physical paper presence on your table.
 
-%| Tables   |      Are      |  Cool |
-%|----------|:-------------:|------:|
-%| col 1 is |  left-aligned | $1600 |
-%| col 2 is |    centered   |   $12 |
-%| col 3 is | right-aligned |    $1 |
+<center>
 
-%</center>
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
-%# Group Notes
+</center>
+
+# Group Notes
+
+(...)
 
