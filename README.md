@@ -33,17 +33,17 @@ Additionally for the pdf files, between title and type of notation, further info
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th></th>
+    <th></th> 
+    <th></th>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>Innocentio Alberti</td>
     <td>Smith</td> 
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td>Giovanni Bardi</td>
     <td>Jackson</td> 
     <td>94</td>
   </tr>
