@@ -3049,15 +3049,6 @@ Libro Primo</creator>
         <type>half</type>
         <stem default-y="-46">down</stem>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="15" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-2</offset>
-      </direction>
       <note default-x="183">
         <pitch>
           <step>C</step>
@@ -13520,15 +13511,6 @@ Libro Primo</creator>
           <text>res</text>
         </lyric>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="22" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="161">
         <pitch>
           <step>B</step>
@@ -13598,15 +13580,6 @@ Libro Primo</creator>
           <text>car</text>
         </lyric>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="20" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="152">
         <pitch>
           <step>B</step>

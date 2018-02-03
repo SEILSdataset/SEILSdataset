@@ -620,15 +620,6 @@ Libro Primo</creator>
           <text>lie</text>
         </lyric>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="19" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="209">
         <pitch>
           <step>F</step>
@@ -677,15 +668,6 @@ Libro Primo</creator>
         <type>half</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="21" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="252">
         <pitch>
           <step>F</step>
@@ -2814,15 +2796,6 @@ Libro Primo</creator>
           <text>lau</text>
         </lyric>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="18" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="193">
         <pitch>
           <step>C</step>
@@ -2835,14 +2808,6 @@ Libro Primo</creator>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="17" font-size="10.8" relative-x="-10">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-      </direction>
       <note default-x="227">
         <pitch>
           <step>B</step>

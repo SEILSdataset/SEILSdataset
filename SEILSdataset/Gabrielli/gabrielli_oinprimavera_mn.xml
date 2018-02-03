@@ -1701,15 +1701,6 @@ Libro Primo</creator>
           <text>len</text>
         </lyric>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="10" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="65">
         <pitch>
           <step>B</step>
@@ -4325,14 +4316,6 @@ Libro Primo</creator>
     </measure>
     <!--=======================================================-->
     <measure number="29" width="277">
-      <direction placement="above">
-        <direction-type>
-          <words default-y="14" font-size="10.8" relative-x="-8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-      </direction>
       <note default-x="11">
         <pitch>
           <step>C</step>
@@ -8664,14 +8647,6 @@ Libro Primo</creator>
     </measure>
     <!--=======================================================-->
     <measure number="61" width="207">
-      <direction placement="above">
-        <direction-type>
-          <words default-y="24" font-size="10.8" relative-x="-10">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-      </direction>
       <note default-x="11">
         <pitch>
           <step>F</step>

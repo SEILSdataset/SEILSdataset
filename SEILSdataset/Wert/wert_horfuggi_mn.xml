@@ -8576,15 +8576,6 @@ Libro Primo</creator>
           <tied type="stop"/>
         </notations>
       </note>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="17" font-size="10.8">(</words>
-        </direction-type>
-        <direction-type>
-          <words font-size="10.8">)</words>
-        </direction-type>
-        <offset>-1</offset>
-      </direction>
       <note default-x="82">
         <pitch>
           <step>C</step>
