@@ -15,7 +15,7 @@ The 330 files are stored in folders according to the composers family name. With
 <ul>1 MusicXML (.xml)<br></ul>
 <ul>1 Final Project (.musx)<br></ul>
 <ul>2 symbolically encoded in modern notation; one with annotations **kern (.krn)<br></ul>
-<ul>2 symbolically encoded in modern notation; one with annotations MEI (.musx)<br></ul>
+<ul>2 symbolically encoded in modern notation; one with annotations MEI (.mei)<br></ul>
 <br>
 The name of each individual file begins with the family name of the composer, followed by the first two or three words of the madrigal title, as well as by the type of notation (an – ancient notation, and mn – modern notation). <br>
 <ul>e.g. composer_first3words_notationtype.format<br><i>giovannelli_nelfoco_an.ly</i><br></ul>
