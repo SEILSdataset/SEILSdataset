@@ -13,7 +13,7 @@ The 450 files are stored in folders according to the composers family name. With
 <ul>2 symbolically encoded; ancient white mensural and modern notation (.ly)<br></ul>
 <ul>1 MIDI transcription (.mid)<br></ul>
 <ul>1 MusicXML (.xml)<br></ul>
-<ul>1 Final Project (.musx)<br></ul>
+<ul>1 Finale Project (.musx)<br></ul>
 <ul>2 symbolically encoded in modern notation; **kern and MEI (.krn and .mei)<br></ul>
 <ul>2 symbolically encoded in modern notation with annotations; **kern and MEI (.krn and .mei)<br></ul>
 <br>
@@ -39,7 +39,7 @@ Additionally for the pdf files, between title and type of notation, further info
   </tr>
    <tr>
     <td>Girolamo Belli</td>
-    <td>Paulo Isnardi</td> 
+    <td>Paolo Isnardi</td> 
     <td>Costanzo Porta</td>
   </tr>
    <tr>
