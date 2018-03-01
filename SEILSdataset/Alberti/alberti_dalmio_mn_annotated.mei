@@ -5158,7 +5158,6 @@
                                     </note>
                                 </layer>
                             </staff>
-                            <harm xml:id="COM" staff="4" tstamp="1.500000">--- melisma ---</harm>
                         </measure>
                         <measure xml:id="measure-0000001464618254" right="dashed" n="73">
                             <staff xml:id="staff-0000000115565435" n="1">
