@@ -3945,6 +3945,9 @@
                             </staff>
                             <harm xml:id="COM" staff="3" tstamp="1.000000">*CON</harm>
                             <harm xml:id="COM" staff="2" tstamp="3.000000">*CON</harm>
+                            <harm xml:id="COM" staff="3" tstamp="4.000000">--- melisma ---</harm>
+                            <harm xml:id="COM" staff="4" tstamp="3.000000">--- melisma ---</harm>
+                            <harm xml:id="COM" staff="5" tstamp="1.000000">--- melisma ---</harm>
                         </measure>
                         <sb xml:id="sb-0000000483304677" />
                         <measure xml:id="measure-0000002065577713" right="dashed" n="55">
@@ -4120,6 +4123,7 @@
                                     </note>
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="4" tstamp="3.000000">--- melisma ---</harm>
                             <harm xml:id="COM" staff="1" tstamp="1.500000">*</harm>
                             <harm xml:id="COM" staff="5" tstamp="1.500000">*</harm>
                             <tie xml:id="tie-0000001690434975" startid="#note-0000001497432209" endid="#note-0000000886168048" />
@@ -4288,6 +4292,7 @@
                                     <mRest xml:id="mrest-0000001849615845" />
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="1" tstamp="1.000000">--- melisma ---</harm>
                         </measure>
                         <sb xml:id="sb-0000000534553912" />
                         <measure xml:id="measure-0000001408704920" right="dashed" n="61">
