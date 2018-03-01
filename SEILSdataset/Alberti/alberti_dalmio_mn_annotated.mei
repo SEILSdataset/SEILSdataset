@@ -3945,7 +3945,6 @@
                                 </layer>
                             </staff>
                             <harm xml:id="COM" staff="4" tstamp="3.000000">*double_acef</harm>
-                            <harm xml:id="COM" staff="2" tstamp="2.000000">--- dim ---</harm>
                         </measure>
                         <measure xml:id="measure-0000001968851549" right="dashed" n="57">
                             <staff xml:id="staff-0000002028957702" n="1">
@@ -4025,7 +4024,6 @@
                             <harm xml:id="COM" staff="1" tstamp="1.500000">*</harm>
                             <harm xml:id="COM" staff="2" tstamp="1.500000">*</harm>
                             <harm xml:id="COM" staff="1" tstamp="4.000000">*CON</harm>
-                            <harm xml:id="COM" staff="3" tstamp="2.000000">--- dim ---</harm>
                             <tie xml:id="tie-0000000401106798" startid="#note-0000000971874528" endid="#note-0000000379659774" />
                         </measure>
                         <measure xml:id="measure-0000001760692588" right="dashed" n="58">
