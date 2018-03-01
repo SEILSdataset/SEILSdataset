@@ -101,7 +101,7 @@
 2D\	so	2A/	Ma	2F#/	so	2d/	Ma	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	.
 1r	.	2G/	las-	1r	.	2e-/	las-	2r	.	.
-.	.	2F#/	so	.	.	2d/	so	2a/	co-	><CON_4v_doub
+.	.	2F#/	so	.	.	2d/	so	2a/	co-	><CON_4v+1doub
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	.
 1G\	co-	1r	.	1d\	co-	1B-/	co-	2b-\	mea-	.
 .	.	.	.	.	.	.	.	2g/	vien	.
@@ -147,7 +147,7 @@
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	.
 2G\	lau-	2B-\	lau-	2r	.	4d/]	.	2g/	lau-	.
 .	.	.	.	.	.	4d/	to	.	.	.
-4D\	ro	4.A/	ro	2d\	che	[2d/	lau-	2f#/	ro	><CON_4v_doub
+4D\	ro	4.A/	ro	2d\	che	[2d/	lau-	2f#/	ro	><CON_4v+1doub
 4D\	che	.	.	.	.	.	.	.	.	.
 .	.	8A/	che	.	.	.	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	.
@@ -191,7 +191,7 @@
 1GG/	trui	1G/	trui	1d\	trui	1g/	trui	1b-\	trui	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50	.
 1D\	poi	1A/	poi	1d\	poi	1f/	poi	2a/	poi	>
-.	.	.	.	.	.	.	.	4a/	dia	<CON_4v_doub
+.	.	.	.	.	.	.	.	4a/	dia	<CON_4v+1doub
 .	.	.	.	.	.	.	.	4b-\	gio-	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51	.
 1r	.	1r	.	4A/	dia	4c/	dia	4cc\	con-	.
@@ -239,7 +239,7 @@
 .	.	8E/J	.	.	.	.	.	.	.	.
 .	.	2F#/	.	.	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59	.
-1r	.	1G/	do	2r	.	2g/	do	4b-\	dia	><CON_2v_doub_rep
+1r	.	1G/	do	2r	.	2g/	do	4b-\	dia	><CON_3v+1doub_rep
 .	.	.	.	.	.	.	.	4cc\	gio-	.
 .	.	.	.	4B-\	dia	4d/	dia	4dd\	con-	.
 .	.	.	.	4c\	gio-	4e/	gio-	8cc\L	.	.
