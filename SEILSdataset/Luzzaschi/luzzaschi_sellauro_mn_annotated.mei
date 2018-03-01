@@ -1005,6 +1005,7 @@
                                     <mRest xml:id="mrest-0000001837585387" />
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="3" tstamp="1.500000">--- melisma ---</harm>
                         </measure>
                         <measure xml:id="measure-0000000723550424" right="dashed" n="20">
                             <staff xml:id="staff-0000000945819511" n="1">
