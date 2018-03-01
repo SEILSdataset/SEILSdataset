@@ -73,7 +73,7 @@
 2C/	ri-	.	.	2c\	ri-	2e-\	ri-	2g/	ri-	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	.
 2D\	to.	4r	.	2A/	to.	4d\	to.	4f#/	to.	>
-.	.	4d\	E	.	.	4f#\	E	4a/	E	<CON_2v_trip+doub
+.	.	4d\	E	.	.	4f#\	E	4a/	E	<CON_2v+1trip+1doub
 4r	.	4d\	pur	4r	.	4f#\	pur	4a/	pur	.
 4G\	E	4d\	non	4B-\	E	4g\	non	4b-\	non	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	.
@@ -89,7 +89,7 @@
 .	.	4F#/	.	.	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	.
 1G\	ro	1G/	ro	2B-\	ro	1g\	ro	2r	.	>
-.	.	.	.	2d\	Ch'e-	.	.	2b-\	Ch'e-	<CON_3v_trip+doub+doub
+.	.	.	.	2d\	Ch'e-	.	.	2b-\	Ch'e-	<CON_3v+1trip+2doub
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	.
 2r	.	2r	.	4d\	ri	4r	.	4b-\	ri	.
 .	.	.	.	4c\	gi&agrave;	4f\	Ch'e-	4a/	gi&agrave;	.
@@ -118,7 +118,7 @@
 2AA/	do-	2E/	do-	2A/	do-	2c#\	do-	2a/	do-	.
 2D\	de	2D/	re	2A/	re	2d\	re	2f#/	re	>
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	.
-2AA/	Dol-	1r	.	2c\	Dol-	2r	.	1r	.	<CON_4v_doub
+2AA/	Dol-	1r	.	2c\	Dol-	2r	.	1r	.	<CON_4v+1doub
 [2BB-/	cis-	.	.	[2d\	cis-	2f\	Dol-	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	.
 2BB-/]	.	2r	.	2d\]	.	2f\	cis-	2b-\	Dol-	.
@@ -147,7 +147,7 @@
 .	.	8A/	.	.	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	.
 2r	.	2G/	.	2d\]	.	1r	.	2g/]	.	.
-2D\	O	4d\	sa	2A/	sa	.	.	2f/	sa	><CON_5v_doub
+2D\	O	4d\	sa	2A/	sa	.	.	2f/	sa	><CON_5v+1doub
 .	.	4D/	O	.	.	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	.
 4C/	pian-	4E-/	pian-	4r	.	4r	.	1r	.	.
@@ -174,7 +174,7 @@
 .	.	.	.	.	.	8f\	.	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	.
 1C/	de	4G/	cui	2c\	de	1e\	.	1cc\	de	>
-.	.	4E/	si	.	.	.	.	.	.	<CON_4v_doub
+.	.	4E/	si	.	.	.	.	.	.	<CON_4v+1doub
 .	.	2G/	ve-	[2c\	Con	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	.
 1r	.	2C/	de	4c\]	.	4e\	de	2r	.	.
@@ -210,7 +210,7 @@
 .	.	.	.	.	.	.	.	4f#/	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	.
 1GG/	de	1G/	de	1Bn\	de	1d\	de	2g/	de	>
-.	.	.	.	.	.	.	.	2g/	O	<CON_4v_doub
+.	.	.	.	.	.	.	.	2g/	O	<CON_4v+1doub
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	.
 1r	.	4r	.	2c\	O	1r	.	4g/	pian-	.
 .	.	4A/	O	.	.	.	.	4f/	ta	.
