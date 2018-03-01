@@ -5561,13 +5561,13 @@
                                 </layer>
                             </staff>
                             <harm xml:id="HOM" staff="1" tstamp="1.50000">*</harm>
-                            <harm xml:id="HOM" staff="1" tstamp="4.00000">*ANTIFvar</harm>
+                            <harm xml:id="HOM" staff="1" tstamp="4.00000">*ANTIF</harm>
                             <harm xml:id="HOM" staff="2" tstamp="1.50000">*</harm>
                             <harm xml:id="HOM" staff="2" tstamp="3.00000">*imit</harm>
                             <harm xml:id="HOM" staff="3" tstamp="1.50000">*</harm>
                             <harm xml:id="HOM" staff="3" tstamp="3.00000">*CONdim</harm>
                             <harm xml:id="HOM" staff="4" tstamp="1.50000">*</harm>
-                            <harm xml:id="HOM" staff="5" tstamp="2.00000">*imit</harm>
+                            <harm xml:id="HOM" staff="5" tstamp="2.00000">*ANTIFvar</harm>
                             <tie xml:id="tie-0000001336675242" startid="#note-0000001682707806" endid="#note-0000002059493750" />
                             <tie xml:id="tie-0000001465859959" startid="#note-0000000969048428" endid="#note-0000001503712677" />
                         </measure>
@@ -5723,8 +5723,8 @@
                                     <note xml:id="note-0000000457941245" dur="1" oct="3" pname="d" />
                                 </layer>
                             </staff>
-                            <harm xml:id="HOM" staff="3" tstamp="2.00000">*imit</harm>
-                            <harm xml:id="HOM" staff="4" tstamp="1.00000">*imit</harm>
+                            <harm xml:id="HOM" staff="3" tstamp="2.00000">*ANTIFvar</harm>
+                            <harm xml:id="HOM" staff="4" tstamp="1.00000">*ANTIFvar</harm>
                             <tie xml:id="tie-0000002063093020" startid="#note-0000001155806436" endid="#note-0000001799199333" />
                             <tie xml:id="tie-0000000379172086" startid="#note-0000000457941245" endid="#note-0000000469881921" />
                         </measure>
