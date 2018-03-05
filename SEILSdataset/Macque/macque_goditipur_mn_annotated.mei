@@ -1130,7 +1130,7 @@
                                     <mRest xml:id="mrest-0000001797866141" />
                                 </layer>
                             </staff>
-                            <harm xml:id="COM" staff="3" tstamp="1.000000">--- melisma ---</harm>
+                            <harm xml:id="COM" staff="1" tstamp="1.000000">--- melisma ---</harm>
                             <tie xml:id="tie-0000000695341439" startid="#note-0000000333806644" endid="#note-0000001236338716" />
                         </measure>
                         <measure xml:id="measure-0000001481916670" right="dashed" n="14">
