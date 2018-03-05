@@ -363,6 +363,7 @@
                                     <mRest xml:id="mrest-0000000046327737" />
                                 </layer>
                             </staff>
+                            harm xml:id="COM" staff="1" tstamp="1.500000">--- melisma ---</harm>
                             <harm xml:id="COM" staff="3" tstamp="3.000000">*rep_double</harm>
                             <harm xml:id="COM" staff="4" tstamp="3.000000">*rep_double</harm>
                             <tie xml:id="tie-0000000242508347" startid="#note-0000001919180160" endid="#note-0000000982919878" />
@@ -1416,6 +1417,8 @@
                                 </layer>
                             </staff>
                             <harm xml:id="COM" staff="4" tstamp="2.500000">--- melisma ---</harm>
+                            harm xml:id="COM" staff="1" tstamp="3.500000">--- melisma ---</harm>
+                            harm xml:id="COM" staff="5" tstamp="3.500000">--- melisma ---</harm>
                         </measure>
                         <measure xml:id="measure-0000000593913874" right="dashed" n="23">
                             <staff xml:id="staff-0000001907454711" n="1">
