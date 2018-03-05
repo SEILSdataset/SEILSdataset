@@ -6786,6 +6786,7 @@
                             </staff>
                             <harm xml:id="COM" staff="3" tstamp="2.000000">*rep</harm>
                             <harm xml:id="COM" staff="4" tstamp="2.000000">*rep</harm>
+                            <harm xml:id="COM" staff="2" tstamp="1.000000">--- melisma ---</harm>
                             <tie xml:id="tie-0000000589144338" startid="#note-0000001569716394" endid="#note-0000000669086714" />
                         </measure>
                         <measure xml:id="measure-0000000413222779" right="dashed" n="94">
@@ -6857,7 +6858,6 @@
                                     </note>
                                 </layer>
                             </staff>
-                            <harm xml:id="COM" staff="4" tstamp="1.500000">--- melisma ---</harm>
                             <harm xml:id="COM" staff="1" tstamp="3.500000">--- melisma ---</harm>
                             <tie xml:id="tie-0000000873237328" startid="#note-0000000678075948" endid="#note-0000002044351890" />
                             <tie xml:id="tie-0000000388323992" startid="#note-0000000696249724" endid="#note-0000000687774043" />
