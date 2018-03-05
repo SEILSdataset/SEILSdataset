@@ -543,7 +543,7 @@
                                 <layer xml:id="layer-0000000655290793" n="1">
                                     <note xml:id="note-0000000334746800" dur="1" oct="4" pname="g">
                                         <verse xml:id="verse-0000000459218119" n="1">
-                                            <syl xml:id="syl-0000001942618409" con="d" wordpos="m">de</syl>
+                                            <syl xml:id="syl-0000001942618409" wordpos="t">de</syl>
                                         </verse>
                                     </note>
                                 </layer>
@@ -1470,6 +1470,7 @@
                                     <mRest xml:id="mrest-0000000940484115" />
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="3" tstamp="2.500000">--- melisma ---</harm>
                             <tie xml:id="tie-0000001933107401" startid="#note-0000001807820686" endid="#note-0000001638848951" />
                         </measure>
                         <measure xml:id="measure-0000000077926506" right="dashed" n="22">
