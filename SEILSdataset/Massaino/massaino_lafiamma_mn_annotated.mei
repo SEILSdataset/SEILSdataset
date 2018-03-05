@@ -6857,6 +6857,8 @@
                                     </note>
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="4" tstamp="1.500000">--- melisma ---</harm>
+                            <harm xml:id="COM" staff="1" tstamp="3.500000">--- melisma ---</harm>
                             <tie xml:id="tie-0000000873237328" startid="#note-0000000678075948" endid="#note-0000002044351890" />
                             <tie xml:id="tie-0000000388323992" startid="#note-0000000696249724" endid="#note-0000000687774043" />
                         </measure>
