@@ -509,6 +509,7 @@
                             <harm xml:id="COM" staff="2" tstamp="1.50000">*</harm>
                             <harm xml:id="COM" staff="2" tstamp="2.00000">*imit</harm>
                             <harm xml:id="COM" staff="4" tstamp="1.50000">*</harm>
+                            <harm xml:id="COM" staff="5" tstamp="2.500000">--- melisma ---</harm>
                         </measure>
                         <measure xml:id="measure-0000001671108314" right="dashed" n="7">
                             <staff xml:id="staff-0000000463797277" n="1">
