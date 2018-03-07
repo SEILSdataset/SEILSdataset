@@ -91,6 +91,7 @@
                             </staff>
                             <harm xml:id="COM" staff="1" tstamp="1.000000">*CON1</harm>
                             <harm xml:id="COM" staff="4" tstamp="1.000000">*CON2</harm>
+                            <harm xml:id="COM" staff="1" tstamp="4.500000">--- melisma ---</harm>
                         </measure>
                         <measure xml:id="measure-0000001829962434" right="dashed" n="2">
                             <staff xml:id="staff-0000000707012943" n="1">
@@ -244,6 +245,7 @@
                                     </note>
                                 </layer>
                             </staff>
+                            <harm xml:id="COM" staff="3" tstamp="4.500000">--- melisma ---</harm>
                             <harm xml:id="COM" staff="4" tstamp="1.25000">*</harm>
                             <harm xml:id="COM" staff="3" tstamp="1.000000">*CON1</harm>
                             <harm xml:id="COM" staff="5" tstamp="1.000000">*CON2</harm>
