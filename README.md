@@ -1,4 +1,4 @@
-E. Parada-Cabaleiro et al. (2017), The SEILS Dataset: Symbolically encoded scores in modern-early notation for computational Musicology, in Proc. of ISMIR, Suzhou, R.F. of China, pp. 575-581.
+E. Parada-Cabaleiro et al. (2017), The SEILS Dataset: Symbolically encoded scores in modern-early notation for computational Musicology, in Proc. of ISMIR, Suzhou, P.R. China, pp. 575-581.
 
 E. Parada-Cabaleiro et al. (2018), Musical-Linguistic annotation of *Il Lauro Secco*, in Proc. of ISMIR, Paris, France, to appear.
 
