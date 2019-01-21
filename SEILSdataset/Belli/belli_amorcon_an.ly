@@ -180,12 +180,12 @@ AvoiceAA = \relative c'{
    c2 a      | % 42
  
    bes1      | % 43
- 
+  \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
    bes1 a4 a a1 
     \cadenzaOff
       | % 44
- 
+  \override Voice.NoteHead #'style = #'petrucci
 \cadenzaOn
    a2 bis  s2 
   \cadenzaOff
@@ -193,12 +193,12 @@ AvoiceAA = \relative c'{
  
 \set Score.currentBarNumber = #46
    c1      | % 46
-  
+  \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
  d1 bes4 c a1 
      \cadenzaOff
        | % 47
-
+\override Voice.NoteHead #'style = #'petrucci
     bis2 c     | % 48
  
    bes1      | % 49
@@ -389,24 +389,24 @@ AvoiceBA = \relative c'{
    e f      | % 42
   
   f1      | % 43
-  
+  \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
  g1 f4 f e1    
    \cadenzaOff
      | % 44
- 
+ \override Voice.NoteHead #'style = #'petrucci
 \cadenzaOn
    fis2 g  s2 
     \cadenzaOff
       | % 45
  
    g1      | % 46
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
-   bes1 g4 g fis1 
+   bes1 g4 g f1 
      \cadenzaOff
      | % 47
-  
+  \override Voice.NoteHead #'style = #'petrucci
   g2 g      | % 48
  
    g1      | % 49
@@ -595,24 +595,24 @@ AvoiceCA = \relative c{
   g2 f      | % 42
  
    d1      | % 43
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
    d1 d4 d cis1   
    \cadenzaOff
        | % 44
- 
+ \override Voice.NoteHead #'style = #'petrucci
 \cadenzaOn
    d2 d   s2 
     \cadenzaOff
     | % 45
  
    e1      | % 46
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
    f1 ees4  ees d1   
     \cadenzaOff
      | % 47
- 
+ \override Voice.NoteHead #'style = #'petrucci
    d2 ees!      | % 48
  
    d1      | % 49
@@ -798,24 +798,24 @@ AvoiceDA = \relative c{
    g c      | % 42
  
    f,1      | % 43
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
    bes1 f4 d e1     
    \cadenzaOff
      | % 44
- 
+ \override Voice.NoteHead #'style = #'petrucci
 \cadenzaOn
    d2 g1  
    \cadenzaOff
       | % 45
   
   s2 c      | % 46
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
  \cadenzaOn
  f,1 g4 g d1    
      \cadenzaOff
      | % 47
- 
+ \override Voice.NoteHead #'style = #'petrucci
    g2 g      | % 48
  
    g1      | % 49
@@ -992,24 +992,24 @@ AvoiceEA = \relative c{
    c f,      | % 42
   
   bes1      | % 43
- 
+ \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
   g1 d'4 d a1   
     \cadenzaOff
       | % 44
- 
+ \override Voice.NoteHead #'style = #'petrucci
 \cadenzaOn
    d2 g,  s2 
     \cadenzaOff
       | % 45
  
    c1      | % 46
-  
+  \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
   bes1  e4 c d1     
     \cadenzaOff
      | % 47
- 
+ \override Voice.NoteHead #'style = #'petrucci
    g,2 c      | % 48
  
    g1      | % 49
