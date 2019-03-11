@@ -162,16 +162,16 @@ AvoiceAA = \relative c'{
  
    g\longa   \bar "||"  | % 29
   \override Staff.BarLine #'transparent = ##f
+    \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
   c\breve d1  
     \cadenzaOff
     | % 30
   \override Staff.BarLine #'transparent = ##t
 \cadenzaOn
-  c c1. bes2   
+  c c1.   \override Voice.NoteHead #'style = #'petrucci bes2   
    \cadenzaOff
     | % 31
-
     a2 g          | % 32
  
 \set Score.currentBarNumber = #33
@@ -503,16 +503,17 @@ AvoiceBA = \relative c{
  
    c\longa  \bar "||"     | % 29
  \override Staff.BarLine #'transparent = ##f
+   \override Voice.NoteHead #'style = #'harmonic-black
 \cadenzaOn
   r1 g' g   
    \cadenzaOff
    | % 30
   \override Staff.BarLine #'transparent = ##t
 \cadenzaOn
-  a1. a2 g1  
+  a1.  \override Voice.NoteHead #'style = #'petrucci a2  \override Voice.NoteHead #'style = #'harmonic-black g1  
     \cadenzaOff
    | % 31
- 
+    \override Voice.NoteHead #'style = #'petrucci
    f2 e      | % 32
   
   r1  | % 
@@ -521,7 +522,6 @@ AvoiceBA = \relative c{
    r4 g f e  s4 
     \cadenzaOff
     | % 34
-
     d2 e      | % 35
  
    d c      | % 36
