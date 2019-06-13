@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title />
+            </titleStmt>
+            <pubStmt />
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application isodate="2019-03-11T21:00:42" version="2.1.0-dev-0251fbc">
+                    <name>Verovio</name>
+                    <p>Transcoded from Humdrum</p>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList>
+            <work>
+                <title />
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv xml:id="mdiv-0000001385720532">
+                <score xml:id="score-0000000557419725">
+                    <scoreDef xml:id="scoredef-0000001193616271">
+                        <staffGrp xml:id="staffgrp-0000001256620774">
+                            <staffDef xml:id="staffdef-0000002080996036" clef.shape="G" clef.line="2" key.sig="0" mensur.sign="C" n="1" notationtype="mensural.white" lines="5">
+                                <label xml:id="label-0000001270650395" />
+                            </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="section-L1F1">
+                        <measure xml:id="measure-L1" right="invis" n="0">
+                            <staff xml:id="staff-0000001606494339" n="1">
+                                <layer xml:id="layer-L1F1N1" n="1">
+                                    <rest xml:id="rest-L7F1" dur="minima" />
+                                    <note xml:id="note-L8F1" dots="1" dur="minima" oct="4" pname="a">
+                                        <verse xml:id="verse-L8F2" n="1">
+                                            <syl xml:id="syl-L8F2" con="d" wordpos="i">R</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000000897271892" />
+                                    <note xml:id="note-L11F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L11F2" n="1">
+                                            <syl xml:id="syl-L11F2">si</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L13F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L13F2" n="1">
+                                            <syl xml:id="syl-L13F2" con="d" wordpos="i">mẽ</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L14F1" dur="fusa" oct="5" pname="c">
+                                        <verse xml:id="verse-L14F2" n="1">
+                                            <syl xml:id="syl-L14F2">treà</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L15F1" dur="fusa" oct="5" pname="d">
+                                        <verse xml:id="verse-L15F2" n="1">
+                                            <syl xml:id="syl-L15F2">voi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L16F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L16F2" n="1">
+                                            <syl xml:id="syl-L16F2" con="d" wordpos="i">piac</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L17F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L17F2" n="1">
+                                            <syl xml:id="syl-L17F2">que,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L18F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L18F2" n="1">
+                                            <syl xml:id="syl-L18F2" con="d" wordpos="i">mẽ</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L19F1" dur="fusa" oct="5" pname="e">
+                                        <verse xml:id="verse-L19F2" n="1">
+                                            <syl xml:id="syl-L19F2">treà</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L20F1" dur="fusa" oct="5" pname="d">
+                                        <verse xml:id="verse-L20F2" n="1">
+                                            <syl xml:id="syl-L20F2">voi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L21F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L21F1" accid="x" />
+                                        <verse xml:id="verse-L21F2" n="1">
+                                            <syl xml:id="syl-L21F2" con="d" wordpos="i">piac</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L22F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L22F2" n="1">
+                                            <syl xml:id="syl-L22F2">que,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L24F1" dur="semiminima" />
+                                    <note xml:id="note-L25F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L25F2" n="1">
+                                            <syl xml:id="syl-L25F2">Et</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L27F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L27F2" n="1">
+                                            <syl xml:id="syl-L27F2" con="d" wordpos="i">al</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L28F1" dur="fusa" oct="4" pname="b" />
+                                    <note xml:id="note-L29F1" dur="fusa" oct="4" pname="a" />
+                                    <custos pname="c" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L31" right="invis">
+                            <staff xml:id="staff-L31F1N1" n="1">
+                                <layer xml:id="layer-L31F1N1" n="1">
+                                    <note xml:id="note-L32F1" dur="semiminima" oct="5" pname="c" />
+                                    <note xml:id="note-L33F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L33F2" n="1">
+                                            <syl xml:id="syl-L33F2" con="d" wordpos="i">cor</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L35F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L35F2" n="1">
+                                            <syl xml:id="syl-L35F2" con="d" wordpos="i">tes</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L37F1" dur="minima" oct="5" pname="c">
+                                        <verse xml:id="verse-L37F2" n="1">
+                                            <syl xml:id="syl-L37F2" con="d" wordpos="i">seas</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L40F1" dots="1" dur="minima" oct="5" pname="c">
+                                        <verse xml:id="verse-L40F2" n="1">
+                                            <syl xml:id="syl-L40F2" con="d" wordpos="i">set</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000000883877853" />
+                                    <note xml:id="note-L44F1" dur="semiminima" oct="5" pname="d" />
+                                    <note xml:id="note-L46F1" dur="semibrevis" oct="5" pname="e" />
+                                    <note xml:id="note-L51F1" dots="1" dur="semibrevis" oct="5" pname="e">
+                                        <verse xml:id="verse-L51F2" n="1">
+                                            <syl xml:id="syl-L51F2">to</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001144583867" />
+                                    <rest xml:id="rest-L58F1" dur="minima" />
+                                    <rest xml:id="rest-L60F1" dur="minima" />
+                                    <note xml:id="note-L63F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L63F2" n="1">
+                                            <syl xml:id="syl-L63F2" con="d" wordpos="i">Pa</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L65F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L65F2" n="1">
+                                            <syl xml:id="syl-L65F2">gò</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L67F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L67F2" n="1">
+                                            <syl xml:id="syl-L67F2" con="d" wordpos="i">tri</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L68F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L68F2" n="1">
+                                            <syl xml:id="syl-L68F2" con="d" wordpos="i">bu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L71F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L71F2" n="1">
+                                            <syl xml:id="syl-L71F2">to</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L73F1" dur="semiminima" />
+                                    <note xml:id="note-L74F1" dur="fusa" oct="5" pname="c">
+                                        <verse xml:id="verse-L74F2" n="1">
+                                            <syl xml:id="syl-L74F2">di</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L75F1" dur="fusa" oct="5" pname="d">
+                                        <verse xml:id="verse-L75F2" n="1">
+                                            <syl xml:id="syl-L75F2" con="d" wordpos="i">sos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L76F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L76F2" n="1">
+                                            <syl xml:id="syl-L76F2" con="d" wordpos="i">pir</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L77F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L77F2" n="1">
+                                            <syl xml:id="syl-L77F2">il</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L79F1" dots="1" dur="minima" oct="5" pname="c">
+                                        <verse xml:id="verse-L79F2" n="1">
+                                            <syl xml:id="syl-L79F2" con="d" wordpos="i">pe</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001518585360" />
+                                    <note xml:id="note-L82F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L82F2" n="1">
+                                            <syl xml:id="syl-L82F2">to:</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L83F1" dur="semiminima" />
+                                    <note xml:id="note-L84F1" dur="fusa" oct="4" pname="a">
+                                        <verse xml:id="verse-L84F2" n="1">
+                                            <syl xml:id="syl-L84F2">di</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L85F1" dur="fusa" oct="4" pname="b">
+                                        <verse xml:id="verse-L85F2" n="1">
+                                            <syl xml:id="syl-L85F2" con="d" wordpos="i">sos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L86F1" dur="semibrevis" oct="5" pname="c">
+                                        <verse xml:id="verse-L86F2" n="1">
+                                            <syl xml:id="syl-L86F2">piri</syl>
+                                        </verse>
+                                    </note>
+                                    <custos pname="f" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L92" right="invis">
+                            <staff xml:id="staff-L92F1N1" n="1">
+                                <layer xml:id="layer-L92F1N1" n="1">
+                                    <rest xml:id="rest-L93F1" dur="semiminima" />
+                                    <note xml:id="note-L94F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L94F2" n="1">
+                                            <syl xml:id="syl-L94F2">il</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L96F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L96F2" n="1">
+                                            <syl xml:id="syl-L96F2" con="d" wordpos="i">pet</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L97F1" dur="minima" oct="5" pname="d" />
+                                    <note xml:id="note-L99F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L99F1" accid="x" />
+                                    </note>
+                                    <note xml:id="note-L100F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L100F2" n="1">
+                                            <syl xml:id="syl-L100F2">to:</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L101F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L101F2" n="1">
+                                            <syl xml:id="syl-L101F2">Ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L103F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L103F2" n="1">
+                                            <syl xml:id="syl-L103F2">poi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L104F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L104F2" n="1">
+                                            <syl xml:id="syl-L104F2">che'l</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L105F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L105F2" n="1">
+                                            <syl xml:id="syl-L105F2" con="d" wordpos="i">vos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L107F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L107F2" n="1">
+                                            <syl xml:id="syl-L107F2" con="d" wordpos="i">troa</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L108F1" dots="1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L108F2" n="1">
+                                            <syl xml:id="syl-L108F2" con="d" wordpos="i">mo</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001138924105" />
+                                    <note xml:id="note-L112F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L112F1" accid="x" />
+                                        <verse xml:id="verse-L112F2" n="1">
+                                            <syl xml:id="syl-L112F2">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L113F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L113F2" n="1">
+                                            <syl xml:id="syl-L113F2" con="d" wordpos="i">Vol</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L117F1" dur="fusa" oct="5" pname="c">
+                                        <verse xml:id="verse-L117F2" n="1">
+                                            <syl xml:id="syl-L117F2" con="d" wordpos="i">ge</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L118F1" dur="fusa" oct="4" pname="b" stem.dir="down" />
+                                    <note xml:id="note-L119F1" dur="fusa" oct="5" pname="c" />
+                                    <note xml:id="note-L120F1" dur="fusa" oct="5" pname="d" />
+                                    <note xml:id="note-L121F1" dur="semiminima" oct="5" pname="e" />
+                                    <note xml:id="note-L122F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L122F2" n="1">
+                                            <syl xml:id="syl-L122F2">stein</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L123F1" dots="1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L123F2" n="1">
+                                            <syl xml:id="syl-L123F2" con="d" wordpos="i">al</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000000370008754" />
+                                    <note xml:id="note-L126F1" dur="fusa" oct="5" pname="e">
+                                        <verse xml:id="verse-L126F2" n="1">
+                                            <syl xml:id="syl-L126F2">tra</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L127F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L127F2" n="1">
+                                            <syl xml:id="syl-L127F2" con="d" wordpos="i">par</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L129F1" dur="semibrevis" oct="5" pname="c">
+                                        <verse xml:id="verse-L129F2" n="1">
+                                            <syl xml:id="syl-L129F2">te,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L135F1" dur="semibrevis" />
+                                    <custos pname="a" oct="4" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L140" right="invis">
+                            <staff xml:id="staff-L140F1N1" n="1">
+                                <layer xml:id="layer-L140F1N1" n="1">
+                                    <rest xml:id="rest-L141F1" dur="minima" />
+                                    <rest xml:id="rest-L145F1" dur="semiminima" />
+                                    <note xml:id="note-L146F1" dur="semiminima" oct="4" pname="a">
+                                        <verse xml:id="verse-L146F2" n="1">
+                                            <syl xml:id="syl-L146F2">in</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L147F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L147F2" n="1">
+                                            <syl xml:id="syl-L147F2" con="d" wordpos="i">al</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L149F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L149F2" n="1">
+                                            <syl xml:id="syl-L149F2">tra</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L151F1" dur="minima" oct="4" pname="b">
+                                        <accid xml:id="accid-L151F1" accid="f" />
+                                        <verse xml:id="verse-L151F2" n="1">
+                                            <syl xml:id="syl-L151F2" con="d" wordpos="i">par</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L153F1" dur="minima" oct="4" pname="a">
+                                        <verse xml:id="verse-L153F2" n="1">
+                                            <syl xml:id="syl-L153F2">te,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L154F1" dur="semibrevis" oct="5" pname="c">
+                                        <verse xml:id="verse-L154F2" n="1">
+                                            <syl xml:id="syl-L154F2" con="d" wordpos="i">Dõ</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L156F1" dur="minima" oct="4" pname="a">
+                                        <verse xml:id="verse-L156F2" n="1">
+                                            <syl xml:id="syl-L156F2">na,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L157F1" dur="minima" />
+                                    <note xml:id="note-L158F1" dur="semibrevis" oct="4" pname="a">
+                                        <verse xml:id="verse-L158F2" n="1">
+                                            <syl xml:id="syl-L158F2" con="d" wordpos="i">Dõ</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L160F1" dur="semiminima" oct="4" pname="a">
+                                        <verse xml:id="verse-L160F2" n="1">
+                                            <syl xml:id="syl-L160F2">na,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L161F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L161F2" n="1">
+                                            <syl xml:id="syl-L161F2" con="d" wordpos="i">s'es</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L162F1" dots="1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L162F2" n="1">
+                                            <syl xml:id="syl-L162F2" con="d" wordpos="i">tin</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001185422738" />
+                                    <note xml:id="note-L164F1" dur="fusa" oct="5" pname="e">
+                                        <verse xml:id="verse-L164F2" n="1">
+                                            <syl xml:id="syl-L164F2" con="d" wordpos="i">sean</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L165F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L165F2" n="1">
+                                            <syl xml:id="syl-L165F2">coil</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L166F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L166F2" n="1">
+                                            <syl xml:id="syl-L166F2">mio</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L167F1" dots="1" dur="minima" oct="5" pname="c">
+                                        <verse xml:id="verse-L167F2" n="1">
+                                            <syl xml:id="syl-L167F2" con="d" wordpos="i">fo</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000000186736131" />
+                                    <note xml:id="note-L170F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L170F2" n="1">
+                                            <syl xml:id="syl-L170F2">coin</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L172F1" dur="minima" oct="4" pname="b">
+                                        <verse xml:id="verse-L172F2" n="1">
+                                            <syl xml:id="syl-L172F2" con="d" wordpos="i">par</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L174F1" dur="semibrevis" oct="4" pname="a">
+                                        <verse xml:id="verse-L174F2" n="1">
+                                            <syl xml:id="syl-L174F2">te:</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L178F1" dur="minima" />
+                                    <rest xml:id="rest-L180F1" dur="semibrevis" />
+                                    <rest xml:id="rest-L183F1" dur="minima" />
+                                    <note xml:id="note-L185F1" dots="1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L185F2" n="1">
+                                            <syl xml:id="syl-L185F2" con="d" wordpos="i">Sor</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000000002828165" />
+                                    <note xml:id="note-L187F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L187F2" n="1">
+                                            <syl xml:id="syl-L187F2">se</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L188F1" dur="minima" oct="5" pname="f">
+                                        <accid xml:id="accid-L188F1" accid="x" />
+                                        <verse xml:id="verse-L188F2" n="1">
+                                            <syl xml:id="syl-L188F2">poi</syl>
+                                        </verse>
+                                    </note>
+                                    <custos pname="g" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L190" right="invis">
+                            <staff xml:id="staff-L190F1N1" n="1">
+                                <layer xml:id="layer-L190F1N1" n="1">
+                                    <note xml:id="note-L191F1" dur="semiminima" oct="5" pname="g">
+                                        <verse xml:id="verse-L191F2" n="1">
+                                            <syl xml:id="syl-L191F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L192F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L192F2" n="1">
+                                            <syl xml:id="syl-L192F2" con="d" wordpos="i">uoar</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L193F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L193F2" n="1">
+                                            <syl xml:id="syl-L193F2" con="d" wordpos="i">do</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L194F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L194F2" n="1">
+                                            <syl xml:id="syl-L194F2">re:</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L195F1" dur="semibrevis" />
+                                    <rest xml:id="rest-L202F1" dur="minima" />
+                                    <note xml:id="note-L206F1" dur="minima" oct="5" pname="c">
+                                        <verse xml:id="verse-L206F2" n="1">
+                                            <syl xml:id="syl-L206F2">Ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L208F1" dur="fusa" oct="4" pname="a">
+                                        <verse xml:id="verse-L208F2" n="1">
+                                            <syl xml:id="syl-L208F2" con="d" wordpos="i">fiã</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L209F1" dur="fusa" oct="4" pname="b">
+                                        <verse xml:id="verse-L209F2" n="1">
+                                            <syl xml:id="syl-L209F2">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L210F1" dur="fusa" oct="5" pname="c">
+                                        <verse xml:id="verse-L210F2" n="1">
+                                            <syl xml:id="syl-L210F2">fù</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L211F1" dur="fusa" oct="5" pname="d">
+                                        <verse xml:id="verse-L211F2" n="1">
+                                            <syl xml:id="syl-L211F2" con="d" wordpos="i">dis</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L212F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L212F2" n="1">
+                                            <syl xml:id="syl-L212F2" con="d" wordpos="i">deg</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L214F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L214F2" n="1">
+                                            <syl xml:id="syl-L214F2">no,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L218F1" dur="semiminima" />
+                                    <note xml:id="note-L219F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L219F2" n="1">
+                                            <syl xml:id="syl-L219F2">Ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L222F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L222F2" n="1">
+                                            <syl xml:id="syl-L222F2" con="d" wordpos="i">fiã</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L225F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L225F2" n="1">
+                                            <syl xml:id="syl-L225F2">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L228F1" dur="semiminima" oct="4" pname="b">
+                                        <verse xml:id="verse-L228F2" n="1">
+                                            <syl xml:id="syl-L228F2">fù</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L229F1" dur="semiminima" oct="4" pname="a">
+                                        <verse xml:id="verse-L229F2" n="1">
+                                            <syl xml:id="syl-L229F2" con="d" wordpos="i">dis</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L230F1" dur="minima" oct="4" pname="b">
+                                        <verse xml:id="verse-L230F2" n="1">
+                                            <syl xml:id="syl-L230F2" con="d" wordpos="i">deg</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L232F1" dur="minima" oct="4" pname="a">
+                                        <verse xml:id="verse-L232F2" n="1">
+                                            <syl xml:id="syl-L232F2">no,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L233F1" dur="minima" />
+                                    <rest xml:id="rest-L238F1" dur="semibrevis" />
+                                    <rest xml:id="rest-L241F1" dur="semibrevis" />
+                                    <note xml:id="note-L244F1" dur="semibrevis" oct="5" pname="d">
+                                        <verse xml:id="verse-L244F2" n="1">
+                                            <syl xml:id="syl-L244F2">Che'l</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L247F1" dur="minima" oct="5" pname="g">
+                                        <verse xml:id="verse-L247F2" n="1">
+                                            <syl xml:id="syl-L247F2">mio</syl>
+                                        </verse>
+                                    </note>
+                                    <custos pname="f" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L249" right="invis">
+                            <staff xml:id="staff-L249F1N1" n="1">
+                                <layer xml:id="layer-L249F1N1" n="1">
+                                    <note xml:id="note-L250F1" dots="1" dur="minima" oct="5" pname="f">
+                                        <accid xml:id="accid-L250F1" accid="x" />
+                                        <verse xml:id="verse-L250F2" n="1">
+                                            <syl xml:id="syl-L250F2" con="d" wordpos="i">do</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001231545379" />
+                                    <note xml:id="note-L251F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L251F2" n="1">
+                                            <syl xml:id="syl-L251F2">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L252F1" dur="minima" oct="5" pname="g">
+                                        <verse xml:id="verse-L252F2" n="1">
+                                            <syl xml:id="syl-L252F2">di</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L255F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L255F2" n="1">
+                                            <syl xml:id="syl-L255F2" con="d" wordpos="i">voi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L256F1" dur="semibrevis" oct="5" pname="d">
+                                        <verse xml:id="verse-L256F2" n="1">
+                                            <syl xml:id="syl-L256F2" con="d" wordpos="i">sti</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L259F1" dur="semibrevis" oct="5" pname="g">
+                                        <verse xml:id="verse-L259F2" n="1">
+                                            <syl xml:id="syl-L259F2" con="d" wordpos="i">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L262F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L262F2" n="1">
+                                            <syl xml:id="syl-L262F2" con="d" wordpos="i">tein</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L264F1" dur="semibrevis" oct="5" pname="e">
+                                        <verse xml:id="verse-L264F2" n="1">
+                                            <syl xml:id="syl-L264F2" con="d" wordpos="i">deg</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L268F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L268F2" n="1">
+                                            <syl xml:id="syl-L268F2">no,</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L270F1" dur="minima" />
+                                    <rest xml:id="rest-L272F1" dur="brevis" />
+                                    <note xml:id="note-L285F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L285F2" n="1">
+                                            <syl xml:id="syl-L285F2" con="d" wordpos="i">Ques</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L289F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L289F2" n="1">
+                                            <syl xml:id="syl-L289F2">to</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L290F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L290F2" n="1">
+                                            <syl xml:id="syl-L290F2" con="d" wordpos="i">sec</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L291F1" dur="semiminima" oct="5" pname="d">
+                                        <verse xml:id="verse-L291F2" n="1">
+                                            <syl xml:id="syl-L291F2">cò</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L292F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L292F2" n="1">
+                                            <syl xml:id="syl-L292F2">le</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L293F1" dur="fusa" oct="4" pname="a">
+                                        <verse xml:id="verse-L293F2" n="1">
+                                            <syl xml:id="syl-L293F2" con="d" wordpos="i">chio</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L294F1" dur="fusa" oct="4" pname="b" />
+                                    <note xml:id="note-L295F1" dur="fusa" oct="5" pname="c" />
+                                    <note xml:id="note-L296F1" dur="fusa" oct="5" pname="d" />
+                                    <note xml:id="note-L297F1" dur="fusa" oct="5" pname="e" />
+                                    <note xml:id="note-L298F1" dur="fusa" oct="5" pname="d" />
+                                    <note xml:id="note-L299F1" dur="fusa" oct="5" pname="c" />
+                                    <note xml:id="note-L300F1" dur="fusa" oct="4" pname="b" stem.dir="down" />
+                                    <note xml:id="note-L301F1" dur="fusa" oct="5" pname="c" />
+                                    <note xml:id="note-L302F1" dur="fusa" oct="5" pname="d" />
+                                    <note xml:id="note-L303F1" dur="fusa" oct="5" pname="e" />
+                                    <note xml:id="note-L304F1" dur="fusa" oct="5" pname="f" />
+                                    <custos pname="g" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L306" right="invis">
+                            <staff xml:id="staff-L306F1N1" n="1">
+                                <layer xml:id="layer-L306F1N1" n="1">
+                                    <note xml:id="note-L307F1" dur="semiminima" oct="5" pname="g" />
+                                    <note xml:id="note-L308F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L308F2" n="1">
+                                            <syl xml:id="syl-L308F2">me</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L309F1" dur="semiminima" />
+                                    <note xml:id="note-L310F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L310F2" n="1">
+                                            <syl xml:id="syl-L310F2">Del</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L312F1" dur="minima" oct="5" pname="g">
+                                        <verse xml:id="verse-L312F2" n="1">
+                                            <syl xml:id="syl-L312F2" con="d" wordpos="i">lau</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L314F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L314F2" n="1">
+                                            <syl xml:id="syl-L314F2" con="d" wordpos="i">ro,õ</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L315F1" dur="semiminima" oct="5" pname="f">
+                                        <verse xml:id="verse-L315F2" n="1">
+                                            <syl xml:id="syl-L315F2" con="d" wordpos="i">deho</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L316F1" dur="semiminima" oct="5" pname="e">
+                                        <verse xml:id="verse-L316F2" n="1">
+                                            <syl xml:id="syl-L316F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L317F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L317F2" n="1">
+                                            <syl xml:id="syl-L317F2" con="d" wordpos="i">ra</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L319F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L319F2" n="1">
+                                            <syl xml:id="syl-L319F2">uail</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L321F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L321F2" n="1">
+                                            <syl xml:id="syl-L321F2" con="d" wordpos="i">vos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L323F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L323F1" accid="x" />
+                                        <verse xml:id="verse-L323F2" n="1">
+                                            <syl xml:id="syl-L323F2">tro</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L324F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L324F2" n="1">
+                                            <syl xml:id="syl-L324F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L326F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L326F1" accid="x" />
+                                    </note>
+                                    <note xml:id="note-L327F1" dur="semibrevis" oct="5" pname="d">
+                                        <verse xml:id="verse-L327F2" n="1">
+                                            <syl xml:id="syl-L327F2">me.</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L330F1" dur="semibrevis" />
+                                    <note xml:id="note-L333F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L333F2" n="1">
+                                            <syl xml:id="syl-L333F2">il</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L335F1" dur="minima" oct="4" pname="a">
+                                        <verse xml:id="verse-L335F2" n="1">
+                                            <syl xml:id="syl-L335F2" con="d" wordpos="i">vos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L336F1" dur="minima" oct="4" pname="b">
+                                        <accid xml:id="accid-L336F1" accid="f" />
+                                        <verse xml:id="verse-L336F2" n="1">
+                                            <syl xml:id="syl-L336F2">tro</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L337F1" dur="semibrevis" oct="4" pname="a">
+                                        <verse xml:id="verse-L337F2" n="1">
+                                            <syl xml:id="syl-L337F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L341F1" dur="minima" oct="4" pname="g">
+                                        <verse xml:id="verse-L341F2" n="1">
+                                            <syl xml:id="syl-L341F2">me.</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="rest-L342F1" dur="semibrevis" />
+                                    <note xml:id="note-L345F1" dur="minima" oct="5" pname="d">
+                                        <verse xml:id="verse-L345F2" n="1">
+                                            <syl xml:id="syl-L345F2">Del</syl>
+                                        </verse>
+                                    </note>
+                                    <custos pname="f" oct="5" />
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="measure-L348" right="invis">
+                            <staff xml:id="staff-L348F1N1" n="1">
+                                <layer xml:id="layer-L348F1N1" n="1">
+                                    <note xml:id="note-L349F1" dur="minima" oct="5" pname="f">
+                                        <verse xml:id="verse-L349F2" n="1">
+                                            <syl xml:id="syl-L349F2" con="d" wordpos="i">lau</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L351F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L351F2" n="1">
+                                            <syl xml:id="syl-L351F2" con="d" wordpos="i">ro,on</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L353F1" dots="1" dur="semiminima" oct="4" pname="a">
+                                        <verse xml:id="verse-L353F2" n="1">
+                                            <syl xml:id="syl-L353F2" con="d" wordpos="i">d'ho</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="dot-0000001224974152" />
+                                    <note xml:id="note-L355F1" dur="fusa" oct="4" pname="b">
+                                        <verse xml:id="verse-L355F2" n="1">
+                                            <syl xml:id="syl-L355F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L356F1" dur="semiminima" oct="5" pname="c">
+                                        <accid xml:id="accid-L356F1" accid="x" />
+                                        <verse xml:id="verse-L356F2" n="1">
+                                            <syl xml:id="syl-L356F2" con="d" wordpos="i">ra</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L357F1" dur="semiminima" oct="5" pname="c">
+                                        <verse xml:id="verse-L357F2" n="1">
+                                            <syl xml:id="syl-L357F2">uail</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L358F1" dur="semibrevis" oct="5" pname="d">
+                                        <verse xml:id="verse-L358F2" n="1">
+                                            <syl xml:id="syl-L358F2" con="d" wordpos="i">vos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L360F1" dur="minima" oct="5" pname="c">
+                                        <accid xml:id="accid-L360F1" accid="x" />
+                                        <verse xml:id="verse-L360F2" n="1">
+                                            <syl xml:id="syl-L360F2">tro</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L362F1" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="verse-L362F2" n="1">
+                                            <syl xml:id="syl-L362F2" con="d" wordpos="i">no</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-L363F1" dots="1" dur="minima" oct="5" pname="d" />
+                                    <dot xml:id="dot-0000001218485728" />
+                                    <note xml:id="note-L365F1" dur="fusa" oct="5" pname="c" />
+                                    <note xml:id="note-L366F1" dur="fusa" oct="4" pname="b" stem.dir="down" />
+                                    <note xml:id="note-L367F1" dur="minima" oct="5" pname="c">
+                                        <accid xml:id="accid-L367F1" accid="x" />
+                                    </note>
+                                    <note xml:id="note-L368F1" dur="longa" oct="5" pname="d">
+                                        <verse xml:id="verse-L368F2" n="1">
+                                            <syl xml:id="syl-L368F2">me.</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
