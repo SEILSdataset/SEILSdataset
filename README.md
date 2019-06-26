@@ -13,7 +13,7 @@ The SEILS dataset is a corpus of scores in lilypond, music XML, MIDI, Finale, \*
 
 The SEILS dataset is presented and organised by having two different purposes in mind: Analisys (see SEILSdataset folder) and OMR applications (see SEILS_diplomatic_OMRgroundTruth folder). 
 
-SEILSdataset (encompasses 450 files considering both early and modern notation): 270 are symbolic files digitally encoded in different formats; whereas the remaining 180 are in pdf. From the 270 symbolic files: 60 are encoded in Lilypond (.ly), 30 for each considered notation (modern and ancient); 30 are encoded in Music XML (.xml); 30 in MIDI (.mid); 30 in Finale (.musx); 60 in \*\*kern (.krn), 30 annotated and 30 whithout annotations; and 60 in MEI (.mei), 30 annotated and 30 whithout annotations. From the 180 pdf files: 30 are the modern notated transcriptions of the Finale encoded madrigals; and the other 150 are scanned copies of the original source, published in 1582 (5 pdf’s for each madrigal, one for each voice).  
+SEILSdataset (encompasses 450 files considering both early and modern notation): 270 are symbolic files digitally encoded in different formats; whereas the remaining 180 are in pdf. From the 270 symbolic files: 60 are encoded in Lilypond (.ly), 30 for each considered notation (modern and ancient); 30 are encoded in Music XML (.xml); 30 in MIDI (.mid); 30 in Finale (.musx); 60 in \*\*kern (.krn), 30 annotated and 30 without annotations; and 60 in MEI (.mei), 30 annotated and 30 without annotations. From the 180 pdf files: 30 are the modern notated transcriptions of the Finale encoded madrigals; and the other 150 are scanned copies of the original source, published in 1582 (5 pdf’s for each madrigal, one for each voice).  
 
 SEILS_diplomatic_OMRgroundTruth (encompasses 960 files considering only the original notation, i.e. white mensural notation): 660 are symbolic files digitally encoded in different formats; whereas the remaining 300 are in pdf. From the 660 symbolic files: 60 are choral scores (containing the 5 voices) 30 encoded in MEI (.mei) and 30 encoded in \*\*mens (.mns); 300 are particellas (containing one voice) 150 encoded in MEI (.mei), 150 encoded in \*\*mens (.mns), 150 encoded in agnostic (.agnostic), and 150 encoded in semantic (.semantic). From the 300 pdf files: 150 are the images engraved from the diplomatic transcription in MEI of each particella (5 pdf’s for each madrigal, one for each voice); and the other 150 are scanned copies of the original source, published in 1582 (5 pdf’s for each madrigal, one for each voice).
 
@@ -22,7 +22,7 @@ SEILS_diplomatic_OMRgroundTruth (encompasses 960 files considering only the orig
 
 The 450 files are stored in folders according to the composers family name. Within each folder there are 15 files: <br>
 <ul>5 scans of the original paper print in early notation, for each voice; canto, alto, quinto, tenor, and basso (pdf)<br></ul>
-<ul>1 printable version of the Finale transciption in modern notation (.pdf) <br></ul>
+<ul>1 printable version of the Finale transcription in modern notation (.pdf) <br></ul>
 <ul>2 symbolically encoded; early white mensural and modern notation (.ly)<br></ul>
 <ul>1 MIDI transcription (.mid)<br></ul>
 <ul>1 MusicXML (.xml)<br></ul>
