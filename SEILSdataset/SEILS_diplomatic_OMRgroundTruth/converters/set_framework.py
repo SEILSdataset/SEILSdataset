@@ -1,7 +1,7 @@
 def function_set_framework():
-    f = open('temp2.agnostic', 'w')
+    f = open('temp2.agnostic', 'w', encoding="utf8")
     lines = []
-    in_file = open('temp1.agnostic', 'rt')
+    in_file = open('temp1.agnostic', 'rt', encoding="utf8")
     for line in in_file:
         if line.find('clefG2') > -1 and line.find('flat') > -1:
             lines.append('clef.G-L2\taccidental.flat-L3')

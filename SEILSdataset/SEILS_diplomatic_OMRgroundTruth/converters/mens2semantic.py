@@ -1,14 +1,17 @@
 import os, glob, shutil, sys
-sys.setrecursionlimit(100000)# 10000 is an example, try with different values
+#sys.setrecursionlimit(100000)# 10000 is an example, try with different values
 
-path = 'C:/Users/Administrator/Desktop/The_path/2-my/input_foder'
+my_path = os.getcwd()
+path = my_path + '/input_folder'
+if not os.path.exists(my_path + '/output_folder'):
+    os.mkdir(my_path + '/output_folder')
 for file in glob.glob(os.path.join(path, '*.mns')):
     file_name = os.path.basename(file[0:-4])
-    f = open('temp1.semantic', 'w')
-    f2 = open('temp2.semantic', 'w')
+    f = open('temp1.semantic', 'w', encoding="utf8")
+    f2 = open('temp2.semantic', 'w', encoding="utf8")
     lines = []
     lines2 = []
-    in_file = open(file, 'rt')
+    in_file = open(file, 'rt', encoding="utf8")
     for line in in_file:
         if line.find('*clefG2') > -1:
             lines2.append('clef-G2')
@@ -50,7 +53,7 @@ for file in glob.glob(os.path.join(path, '*.mns')):
         print(line, file=f)
     in_file.close()
     f.close()
-    f = open('temp1.semantic', 'rt')
+    f = open('temp1.semantic', 'rt', encoding="utf8")
     for line in f:
         if line.find('barline') > -1:
             lines.append(line.rstrip())
@@ -11348,10 +11351,8 @@ for file in glob.glob(os.path.join(path, '*.mns')):
                     lines.append(line.rstrip())
     for line in lines:
         print(line.rstrip(), end='\t', file=f2)
-        # print(line, file=f2)
     f.close()
     f2.close()
 
-    shutil.move('temp2.semantic', 'C:/Users/Administrator/Desktop/The_path/2-my/output_foder/' + file_name + '.semantic')
-
+    shutil.move('temp2.semantic', my_path + '/output_folder/' + file_name + '.semantic')
 os.remove('temp1.semantic')

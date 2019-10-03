@@ -3,11 +3,15 @@ from set_framework import function_set_framework
 from set_content import function_set_content
 from set_custos import function_set_custos
 
-path = 'C:/Users/Administrator/Desktop/The_path/2-my/input_foder'
+
+my_path = os.getcwd()
+path = my_path + '/input_folder'
+if not os.path.exists(my_path + '/output_folder'):
+    os.mkdir(my_path + '/output_folder')
 for file in glob.glob(os.path.join(path, '*.mns')):
     file_name = os.path.basename(file[0:-4])
-    in_file = open(file, 'rt')
-    f = open('temp1.agnostic', 'w')
+    in_file = open(file, 'rt', encoding="utf8")
+    f = open('temp1.agnostic', 'w', encoding="utf8")
     lines = []
     for line in in_file:
         if line.find('*clef') > -1:
@@ -31,8 +35,8 @@ for file in glob.glob(os.path.join(path, '*.mns')):
     function_set_content()
     function_set_custos()
 
-    in_file2 = open('converted.agnostic', 'rt')
-    f2 = open('converted-def.agnostic', 'w')
+    in_file2 = open('converted.agnostic', 'rt', encoding="utf8")
+    f2 = open('converted-def.agnostic', 'w', encoding="utf8")
     lines2 = []
     for line in in_file2:
         if '		' in line:
@@ -44,7 +48,7 @@ for file in glob.glob(os.path.join(path, '*.mns')):
     in_file2.close()
     f2.close()
 
-    shutil.move('converted-def.agnostic', 'C:/Users/Administrator/Desktop/The_path/2-my/output_foder/' + file_name + '.agnostic')
+    shutil.move('converted-def.agnostic', my_path + '/output_folder/' + file_name + '.agnostic')
 
 os.remove('temp1.agnostic')
 os.remove('temp2.agnostic')

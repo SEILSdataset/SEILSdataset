@@ -1,7 +1,7 @@
 def function_set_content():
-    f = open('temp3.agnostic', 'w')
+    f = open('temp3.agnostic', 'w', encoding="utf8")
     lines = []
-    in_file = open('temp2.agnostic', 'rt')
+    in_file = open('temp2.agnostic', 'rt', encoding="utf8")
     for line in in_file:
         if line.find('barline') > -1:
             lines.append(line.rstrip())
