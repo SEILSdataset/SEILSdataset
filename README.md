@@ -2,7 +2,7 @@ E. Parada-Cabaleiro et al. (2017), The SEILS Dataset: Symbolically encoded score
 
 E. Parada-Cabaleiro et al. (2018), Musical-Linguistic annotation of *Il Lauro Secco*, in Proc. of ISMIR, Paris, France, pp. 461-467.
 
-E. Parada-Cabaleiro et al. (2019), A diplomatic edition of *Il Lauro Secco*: Ground truth for OMR of white mensural notation, in Proc. of ISMIR, Delft, The Netherlands, to appear.
+E. Parada-Cabaleiro et al. (2019), A diplomatic edition of *Il Lauro Secco*: Ground truth for OMR of white mensural notation, in Proc. of ISMIR, Delft, The Netherlands, pp. 557-564.
 
 
 
