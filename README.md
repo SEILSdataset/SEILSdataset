@@ -4,7 +4,7 @@ E. Parada-Cabaleiro et al. (2018), Musical-Linguistic annotation of *Il Lauro Se
 
 E. Parada-Cabaleiro et al. (2019), A diplomatic edition of *Il Lauro Secco*: Ground truth for OMR of white mensural notation, in Proc. of ISMIR, Delft, The Netherlands, pp. 557-564.
 
-E. Parada-Cabaleiro et al. (2021), Automatic recognition of texture in Renaissance music, in Proc. of ISMIR, Online event, to appear.
+E. Parada-Cabaleiro et al. (2021), Automatic recognition of texture in Renaissance music, in Proc. of ISMIR, Online event, pp. 509-516.
 
 
 
