@@ -3505,7 +3505,7 @@
                             </staff>
                             <staff xml:id="staff-L202F1N1" n="5">
                                 <layer xml:id="layer-L202F1N1" n="1">
-                                    <note xml:id="note-L203F1" dur="minima" oct="3" pname="e">
+                                    <note xml:id="note-L203F1" dur="minima" oct="3" pname="f">
                                         <verse xml:id="verse-L203F2" n="1">
                                             <syl xml:id="syl-L203F2" con="d" wordpos="i">og</syl>
                                         </verse>
@@ -3519,7 +3519,7 @@
                                             <syl xml:id="syl-L203F8" con="d" wordpos="i">og</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="note-L205F1" dur="minima" oct="3" pname="g">
+                                    <note xml:id="note-L205F1" dur="minima" oct="3" pname="a">
                                         <verse xml:id="verse-L205F2" n="1">
                                             <syl xml:id="syl-L205F2" con="d" wordpos="i">niho</syl>
                                         </verse>
