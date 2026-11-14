@@ -2804,12 +2804,12 @@
                             </staff>
                             <staff xml:id="staff-0000001110773209" n="5">
                                 <layer xml:id="layer-0000001310385646" n="1">
-                                    <note xml:id="note-0000000370660383" dur="2" oct="3" pname="e" stem.dir="down">
+                                    <note xml:id="note-0000000370660383" dur="2" oct="3" pname="f" stem.dir="down">
                                         <verse xml:id="verse-0000000409741605" n="1">
                                             <syl xml:id="syl-0000001802760052" con="d" wordpos="i">og</syl>
                                         </verse>
                                     </note>
-                                    <note xml:id="note-0000000312492292" dur="2" oct="3" pname="g" stem.dir="down">
+                                    <note xml:id="note-0000000312492292" dur="2" oct="3" pname="a" stem.dir="down">
                                         <verse xml:id="verse-0000000208305339" n="1">
                                             <syl xml:id="syl-0000001542282809" con="d" wordpos="m">niho</syl>
                                         </verse>

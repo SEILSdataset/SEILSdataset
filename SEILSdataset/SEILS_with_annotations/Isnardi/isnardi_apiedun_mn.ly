@@ -625,7 +625,7 @@ PartPFiveVoiceOne =  {
   R1 \bar "dashed"
   r2 g2 \bar "dashed"
   f2. d4 \bar "dashed"
-  e2 g2 \bar "dashed"
+  f2 a2 \bar "dashed"
   g1 \bar "dashed"
   \break | % 41
   c2 c'2 ~ \bar "dashed"
